@@ -1,0 +1,4 @@
+positional mask1 -> 21 sec
+positional mask2 -> 23 sec
+mobility -> 15 sec
+absolute -> 13 sec
